@@ -1,0 +1,40 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.3.3-p222" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.3.3p0" />
+      <homePath value="/usr/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs23" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.3p0" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/usr/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="rbenv: 2.2.5" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.5p319 ( revision 54774) p319" />
+      <homePath value="$USER_HOME$/.rbenv/versions/2.2.5/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs22" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs22" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.2.5p319 ( revision 54774) p319" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rbenv/versions/2.2.5/bin" />
+    </jdk>
+  </component>
+</application>
