@@ -2737,6 +2737,28 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-12.3.3/exe" />
       </excluded>
     </library>
+    <library name="rake (v13.0.0, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/exe" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/exe" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/exe" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-13.0.0/.github" />
+      </excluded>
+    </library>
     <library name="rar (v0.1.4, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rar-0.1.4/library" />
