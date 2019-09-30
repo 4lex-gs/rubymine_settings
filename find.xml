@@ -15,9 +15,9 @@
     <mask>*.jrb</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*.slim</mask>
     <mask>*.rb</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.slim</mask>
   </component>
 </application>
