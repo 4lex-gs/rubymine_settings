@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="products" type="PLAIN_TEXT" />
       <mapping pattern="453456789" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="jancodes" type="PLAIN_TEXT" />
       <mapping pattern="ys_img_del_token" type="PLAIN_TEXT" />
       <mapping pattern="item_urls" type="PLAIN_TEXT" />
