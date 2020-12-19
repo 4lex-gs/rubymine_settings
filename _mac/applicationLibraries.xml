@@ -380,17 +380,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/2.2.0/json/add" />
       </excluded>
     </library>
-    <library name="json (v1.8.3.1, ruby-2.3.3-p222) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.3.0/json/add" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.3.0/json/add" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/lib/ruby/2.3.0/json/add" />
-      </excluded>
-    </library>
     <library name="json (v2.2.0, rbenv: 2.2.5) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/json-2.2.0/ext" />
@@ -838,26 +827,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/2.2.0/psych/visitors" />
       </excluded>
     </library>
-    <library name="psych (v2.1.0.1, ruby-2.3.3-p222) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.3.0/psych/json" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/nodes" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/handlers" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/visitors" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.3.0/psych/json" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/nodes" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/handlers" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/visitors" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/lib/ruby/2.3.0/psych/json" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/nodes" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/handlers" />
-        <root url="file:///usr/lib/ruby/2.3.0/psych/visitors" />
-      </excluded>
-    </library>
     <library name="psych (v3.1.0, rbenv: 2.2.5) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/psych-3.1.0/bin" />
@@ -1066,41 +1035,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/2.2.0/rdoc/context" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/2.2.0/rdoc/markdown" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/2.2.0/rdoc/generator" />
-      </excluded>
-    </library>
-    <library name="rdoc (v4.2.1, ruby-2.3.3-p222) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/rd" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/ri" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/i18n" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/stats" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/markup" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/parser" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/context" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/markdown" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/generator" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/rd" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/ri" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/i18n" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/stats" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/markup" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/parser" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/context" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/markdown" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/generator" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/rd" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/ri" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/i18n" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/stats" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/markup" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/parser" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/context" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/markdown" />
-        <root url="file:///usr/lib/ruby/2.3.0/rdoc/generator" />
       </excluded>
     </library>
     <library name="rdoc (v6.1.1, rbenv: 2.2.5) [gem]" type="ruby">
