@@ -291,18 +291,18 @@
     </library>
     <library name="bundler (v2.2.2, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/man" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/man" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/man" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.2.2/man" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/man" />
       </excluded>
     </library>
     <library name="capybara (v2.18.0, rbenv: 2.2.5) [gem]" type="ruby">
