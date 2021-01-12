@@ -14,10 +14,10 @@
     <mask>*.jrb</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
-    <mask>*.yml</mask>
     <mask>*.css</mask>
-    <mask>*.slim</mask>
     <mask>*.rb</mask>
+    <mask>*.yml</mask>
+    <mask>*.slim</mask>
     <mask>*.js</mask>
   </component>
 </application>
