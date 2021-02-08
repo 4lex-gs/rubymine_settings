@@ -305,6 +305,19 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.2.8, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler/exe" />
+      </excluded>
+    </library>
     <library name="capybara (v2.18.0, rbenv: 2.2.5) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/capybara-2.18.0/lib" />
@@ -1808,6 +1821,28 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/test" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.2/bundler" />
+      </excluded>
+    </library>
+    <library name="rubygems-update (v3.2.8, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/hide_lib_for_update" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-3.2.8/bundler" />
       </excluded>
     </library>
     <library name="rubyzip (v1.2.0, rbenv: 2.2.5) [gem]" type="ruby">
