@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.slim" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,8 +16,9 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.rb</mask>
+    <mask>*.</mask>
+    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.slim</mask>
-    <mask>*.yml</mask>
   </component>
 </application>
