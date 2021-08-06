@@ -11,6 +11,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="rasem" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="aws_ses" type="Ruby" />
     </extensionMap>
   </component>
